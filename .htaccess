@@ -1,0 +1,9 @@
+RewriteEngine on
+Redirect 301 /live/RAUDIOLIVE http://109.169.23.17:9773/stream
+Redirect 301 /live/RAUDIOLIVE_LOW http://95.154.228.120:8766/stream
+Redirect 301 /live/RAUDIOLIVE_HIGH http://stream.zeno.fm/pkm10gytkm0uv
+Redirect 301 /live/RAUDIOLIVE_MP3 http://stream.zeno.fm/uc9b91tskm0uv
+Redirect 301 /live/RAUDIOLIVE_AAC http://stream.zeno.fm/pkm10gytkm0uv
+Redirect 301 /live/RAUDIOLIVE2_AAC http://stream.zeno.fm/uc9b91tskm0uv
+
+Redirect 301 /live/C2CWEEKEND http://stream.zeno.fm/37a20zm0afhvv
